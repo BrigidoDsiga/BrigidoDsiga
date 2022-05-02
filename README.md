@@ -1,6 +1,6 @@
-                                                 ## Olá! Sou Brígido Domingos Siga!
-                                                      ## Software developer 
-                                         ## Javascript | Typescript | HTML5 | CSS3| React | NodeJS | C#
+ ##                                                      Olá! Sou Brígido Domingos Siga!
+ ##                                                             Software developer 
+ ##                                        Javascript | Typescript | HTML5 | CSS3| React | NodeJS | C#
 
 <div align="center">
   <a href="https://github.com/BrigidoDsiga">
