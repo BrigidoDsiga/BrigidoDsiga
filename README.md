@@ -1,8 +1,7 @@
  ##                                                      Olá! Sou Brígido Domingos Siga!
  ##                                                             Software developer
- ##                                                          Técnico Informático
  ##                                                          Estudante de Cyber Security
- ##                                        Javascript | Typescript | HTML5 | CSS3| React | NodeJS | C#
+ ##                                        Javascript | Typescript | HTML5 | CSS3| React | NodeJS | C# |
 
 <div align="center">
   <a href="https://github.com/BrigidoDsiga">
