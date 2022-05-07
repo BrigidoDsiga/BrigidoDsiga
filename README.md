@@ -1,5 +1,5 @@
  ##                                                      Olá! Sou Brígido Domingos Siga!
- ##                                                             Software developer
+ ##                                                            Full Stack Developer
  ##                                                          Estudante de Cyber Security
  ##                                        Javascript | Typescript | HTML5 | CSS3| React | NodeJS | C# |
 
