@@ -1,7 +1,8 @@
  ##                                                      Olá! Sou Brígido Domingos Siga!
- ##                                                            Full Stack Developer
- ##                                                          Estudante de Cyber Security - Apaixonado pela programação
- ##                                        JavaScript | Typescript | HTML5 | CSS3 | React | NodeJS | .NET | C# | Campus Expert DIO
+ ##                                                          Developer Back End
+ ##                                                          Analista de Sistemas - Apaixonado pela programação
+ ##                                                          Estudante de Cyber Security 
+ ##                                       .NET| C#| JavaScript| Typescript| HTML5| CSS3| React| NodeJS|  Campus Expert DIO
 
 <div align="center">
   <a href="https://github.com/BrigidoDsiga">
