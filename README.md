@@ -1,5 +1,5 @@
  ##                                                      Olá! Sou Brígido Domingos Siga!
- ##                                                          Developer Back End Júnior
+ ##                                                          Developer Back-End Júnior
  ##                                                          Apaixonado pela programação
  ##                                                          Estudante de Cyber Security 
  ##                                       .NET| C#| JavaScript| Typescript| HTML5| CSS3| React| NodeJS|  Campus Expert DIO
