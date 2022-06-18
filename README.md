@@ -1,5 +1,5 @@
- ##                                                      Olá! Sou Brígido Domingos Siga!
- ##                                                          Developer Back-End Júnior .NET
+ ##                                                          Brígido Domingos Sigá!
+ ##                                                          Developer Back-End .NET
  ##                                                          Analista de Sistemas 
  ##                                                          Estudante de Cyber Security 
  
