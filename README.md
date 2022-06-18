@@ -4,7 +4,7 @@
  ##                                                          Estudante de Cyber Security 
  
  ## Habilidades:
- ## C#| JavaScript| Typescript| HTML5| CSS3| React| NodeJS|  Campus Expert DIO
+ ## C#| JavaScript| Typescript| HTML5| CSS3| React.js| Node.js|
 
 <div align="center">
   <a href="https://github.com/BrigidoDsiga">
