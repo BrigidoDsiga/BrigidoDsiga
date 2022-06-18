@@ -1,7 +1,10 @@
  ##                                                      Olá! Sou Brígido Domingos Siga!
- ##                                                          Developer Back-End Júnior
+ ##                                                          Developer Back-End Júnior .NET
+ ##                                                          Analista de Sistemas 
  ##                                                          Estudante de Cyber Security 
- ##                                       .NET| C#| JavaScript| Typescript| HTML5| CSS3| React| NodeJS|  Campus Expert DIO
+ 
+ ## Habilidades:
+ ## C#| JavaScript| Typescript| HTML5| CSS3| React| NodeJS|  Campus Expert DIO
 
 <div align="center">
   <a href="https://github.com/BrigidoDsiga">
