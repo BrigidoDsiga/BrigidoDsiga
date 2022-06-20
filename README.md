@@ -1,6 +1,5 @@
- ##  Brígido Domingos Sigá!
- ##  Developer Back-End .NET      ##   Analista de Sistemas 
- ##  Estudante de Cyber Security 
+ ##  Brígido Domingos Sigá! | Apaixonado pela programação
+ ##  Developer Back-End .NET | Analista de Sistemas | Estudante de Cyber Security 
  
  ## Habilidades:
  ## C#| JavaScript| Typescript| HTML5| CSS3| React.js| Node.js|
