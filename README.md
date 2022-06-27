@@ -1,4 +1,4 @@
- ##  Brígido Domingos Sigá! | In love with programming
+ ##  Brígido Domingos Siga! | In love with programming
  ##  Developer Back-End .NET | Systems Analyst | Cyber ​​Security Student 
  ## Skills: C#| JavaScript| Typescript| HTML5| CSS3| React.js| Node.js|
 <div align="center">
