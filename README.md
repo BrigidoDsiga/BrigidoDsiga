@@ -1,8 +1,6 @@
  ##  Brígido Domingos Sigá! | In love with programming
  ##  Developer Back-End .NET | Systems Analyst | Cyber ​​Security Student 
- ## Skills:
- ## C#| JavaScript| Typescript| HTML5| CSS3| React.js| Node.js|
-
+ ## Skills: C#| JavaScript| Typescript| HTML5| CSS3| React.js| Node.js|
 <div align="center">
   <a href="https://github.com/BrigidoDsiga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrigidoDsiga&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
