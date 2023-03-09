@@ -2,7 +2,7 @@ Meu nome é Brígido Domingos Siga, falo de Fortaleza - Ceará (Guineense). Prof
 
 Acredito que a área de Back End é onde me encontrarei mais, porém também já estudei muito C#, .Net, Node.js, Mongodb, React.js, JavaScript, TypeScript, Angular, Html5, Css3 e entendo como para trabalhar em Full Stack quando necessário.
 
-Adoraria estar inserido no mercado de tecnologia, ramo de desenvolvimento de software, para crescer junto com a empresa e garantir melhor qualidade de vida para o maior número possível de pessoas, pois é nisso que eu acredito, trabalhando em máquinas , algoritmos, desenvolvendo programas para melhorar a vida das pessoas.
+Adoraria estar inserido no mercado de tecnologia, no ramo de desenvolvimento de software, para crescer junto com a empresa e garantir melhor qualidade de vida para o maior número possível de pessoas, pois é nisso que eu acredito, trabalhando em máquinas , algoritmos, desenvolvendo programas para melhorar a vida das pessoas.
 
 # Habilidades difíceis:
 .Net, C#, Node.js, Mongodb, React.js, JavaScript, Html5, Css3.
