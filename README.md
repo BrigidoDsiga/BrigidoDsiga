@@ -4,8 +4,6 @@ Acredito que a área de Back End é onde me encontrarei mais, porém também já
 
 Adoraria estar inserido no mercado de tecnologia, ramo de desenvolvimento de software, para crescer junto com a empresa e garantir melhor qualidade de vida para o maior número possível de pessoas, pois é nisso que eu acredito, trabalhando em máquinas , algoritmos, desenvolvendo programas para melhorar a vida das pessoas.
 
-Habilidades interpessoais: • Trabalho em equipe; • Comunicação e bom relacionamento interpessoal; • Proatividade, motivação e disposição a consolidar e desenvolver uma carreira profissional; • Pensamento analítico, lógico, crítico e humano. • Sólidas habilidades em resolução de problemas; • Habilidade para trabalhar de forma independente e gerenciar o próprio tempo;  • Capacidade de lidar com situações adversas e inovadoras em âmbito profissional e tecnológico; • Comprometimento e positividade;  • Habilidades consultivas.
-
 # Habilidades difíceis:
 .Net, C#, Node.js, Mongodb, React.js, JavaScript, Html5, Css3.
 <div align="center">
