@@ -1,11 +1,9 @@
-Meu nome é Brígido Domingos Siga, falo de Fortaleza - Ceará (Guineense). Profissional na industria de TI à mais de cinco anos, Atualmente trabalho no modelo Integral como Assistente de Informática no atacadão, cursando Segurança Digital (Cyber Security) pela Universidade Uninassau, e desde então tenho estudado todos os dias da semana, já vi "um pouco de tudo ", participando de Bootcamps, Cursos, buscando Certificações para se tornar o profissional mais completo possível.
+Meu nome é Brígido Domingos Siga, falo de Fortaleza - Ceará. Profissional na industria de TI à mais de seis anos, tenho experiência com a infraestrutura, redes, servidor linux e windows. Atualmente trabalho no modelo Integral como líder do setor de Informática no atacadão, formado em Analise e desenvolvimento de sistemas e cursando segunda graduação Banco de dados, pela UniAteneu.
 
-Acredito que a área de Back End é onde me encontrarei mais, porém também já estudei muito C#, .Net, Node.js, Mongodb, React.js, JavaScript, TypeScript, Angular, Html5, Css3 e entendo como para trabalhar em Full Stack quando necessário.
+# Frameworks: .Net framework, Net core, Entity framework, Asp net.  
+# Banco de dados: Mysql e sql SERVER.
 
-Adoraria estar inserido no mercado de tecnologia, no ramo de desenvolvimento de software, para crescer junto com a empresa e garantir melhor qualidade de vida para o maior número possível de pessoas, pois é nisso que eu acredito, trabalhando em máquinas , algoritmos, desenvolvendo programas para melhorar a vida das pessoas.
-
-# Habilidades difíceis:
-.Net, C#, Node.js, Mongodb, React.js, JavaScript, Html5, Css3.
+Além disso, tenho experiência como desenvolvedor Web, utilizando: JavaScript, React.js, Html5, Css3. 
 <div align="center">
   <a href="https://github.com/BrigidoDsiga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrigidoDsiga&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
