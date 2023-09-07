@@ -1,9 +1,10 @@
 Meu nome é Brígido Domingos Siga, falo de Fortaleza - Ceará. Profissional na industria de TI à mais de seis anos, tenho experiência com a infraestrutura, redes, servidor linux e windows. Atualmente trabalho no modelo Integral como líder do setor de Informática no atacadão, formado em Analise e desenvolvimento de sistemas e cursando segunda graduação Banco de dados, pela UniAteneu.
 
-# Frameworks: .Net framework, Net core, Entity framework, Asp net.  
-# Banco de dados: Mysql e sql SERVER.
+Frameworks: .Net framework, Net core, Entity framework, Asp net.  
+Banco de dados: Mysql e sql SERVER.
 
 Além disso, tenho experiência como desenvolvedor Web, utilizando: JavaScript, React.js, Html5, Css3. 
+
 <div align="center">
   <a href="https://github.com/BrigidoDsiga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrigidoDsiga&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
