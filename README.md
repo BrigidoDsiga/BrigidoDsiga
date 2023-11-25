@@ -1,9 +1,12 @@
-Meu nome é Brígido Domingos Siga, falo de Fortaleza - Ceará. Profissional na industria de TI à mais de seis anos, tenho experiência com a infraestrutura, redes, servidor linux e windows. Atualmente trabalho no modelo Integral como líder do setor de Informática no atacadão, formado em Analise e desenvolvimento de sistemas e cursando segunda graduação Banco de dados, pela UniAteneu.
+Brígido Domingos Siga, Sou desenvolvedor de software com experiência em C# e familiaridade com outras linguagens orientadas a objetos. com frameworks como .NET Framework, NET Core, Entity Framework, ASP.NET, Windows Presentation Foundation (WPF) e bancos de dados relacionais como Mysql e SQL Server. 
 
-Frameworks: .Net framework, Net core, Entity framework, Asp net.  
-Banco de dados: Mysql e sql SERVER.
+Tive a oportunidade de me aprofundar em tópicos avançados de programação e desenvolvimento de software. Meu projeto de pesquisa explorou o uso de inteligência artificial no entendimento das relações de gênero na tecnologia. Além disso, participei de várias conferências e workshops na área de tecnologia, onde apresentei meus trabalhos de pesquisa.
+
+Para manter minha curiosidade sempre em alta, eu continuo estudando novas linguagens, metodologias e frameworks dentro da tecnologia. Atualmente, estou aprofundando meus conhecimentos em C# e Cloud e explorando novas aplicações na área.
 
 Além disso, tenho experiência como desenvolvedor Web, utilizando: JavaScript, React.js, Html5, Css3. 
+
+Atualmente sou líder do setor de informática no atacadão (Atacado), dirigindo uma equipe de quatro pessoas.
 
 <div align="center">
   <a href="https://github.com/BrigidoDsiga">
