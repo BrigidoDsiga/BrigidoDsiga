@@ -1,16 +1,6 @@
-Brígido Domingos Siga, Sou desenvolvedor de software com experiência em C# e familiaridade com outras linguagens orientadas a objetos. com frameworks como .NET Framework, NET Core, Entity Framework, ASP.NET, Windows Presentation Foundation (WPF) e bancos de dados relacionais SQL Server. 
-Com uma trajetória de 6 anos na área de TI, atualmente trilhando meu caminho em busca de uma
-mudança de carreira para o desenvolvimento C#. Meu entusiasmo e desejo de embarcar nessa
-jornada são impulsionados por minha paixão por tecnologia e minha determinação em alcançar novos
-patamares profissionais. Ao longo do tempo, adquiri habilidades excepcionais em C# por meio de
-cursos especializados e experiências práticas em projetos pessoais. Destaco-me pela solidez em
-frameworks essenciais, como .NET Framework, NET Core. Estou pronto para enfrentar o desafio de me
-tornar um desenvolvedor C#, trazendo minha experiência de liderança do suporte técnico para
-adicionar uma perspectiva única ao universo do desenvolvimento de software. Estou ansioso para
-contribuir com minha energia e paixão para a construção de soluções inovadoras e eficazes.
-
-Além disso, tenho experiência como desenvolvedor Web, utilizando: JavaScript, React.js, Html5, Css3. 
-
+Brígido Domingos Siga,
+Com uma trajetória de 6 anos na área de TI, atualmente trilhando meu caminho em busca de uma mudança de carreira para o desenvolvimento Back-End. Meu entusiasmo e desejo de embarcar nessa jornada são impulsionados por minha paixão por tecnologia e minha determinação em alcançar novos
+patamares profissionais. Ao longo do tempo, adquiri habilidades excepcionais em Node e MongoDB, por meio de cursos especializados e experiências práticas em projetos pessoais. Destaco-me pela solidez em C#, Node.JS, MongoDB, SQL, API REST e Postman API, Estou pronto para enfrentar o desafio de me tornar um desenvolvedor Back-End, trazendo minha experiência de liderança do suporte técnico para adicionar uma perspectiva única ao universo do desenvolvimento de software. Estou ansioso para contribuir com minha energia e paixão para a construção de soluções inovadoras e eficazes.
 
 <div align="center">
   <a href="https://github.com/BrigidoDsiga">
