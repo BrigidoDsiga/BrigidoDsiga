@@ -7,7 +7,8 @@ Sobre Mim:
 🎓 Sou formado em Análise de Sistemas pela [Universidade Fametro] e cursando gestão da tecnologia de Informção pela [Universidade Ateneu].
 🌱 Estou sempre aprendendo e explorando novas tecnologias e conceitos de programação.
 
-Principais Tecnologias
+Principais Tecnologias: 
+
 💻 JavaScript
 🚀 Node.js
 🌐 Express.js
