@@ -1,7 +1,8 @@
 Bem-vindo ao Meu Perfil GitHub!
 Olá! Meu nome é Brígido Domingos Siga, sou um entusiasta da programação apaixonado por construir coisas incríveis. Seja bem-vindo ao meu espaço no GitHub, onde compartilho meus projetos, contribuições para a comunidade open source e minhas experiências de aprendizado.
 
-Sobre Mim
+Sobre Mim:
+
 👨‍💻 Atualmente, estou focado em desenvolvimento back-end utilizando JavaScript e Node.js.
 🎓 Sou formado em Análise de Sistemas pela [Universidade Fametro] e cursando gestão da tecnologia de Informção pela [Universidade Ateneu].
 🌱 Estou sempre aprendendo e explorando novas tecnologias e conceitos de programação.
