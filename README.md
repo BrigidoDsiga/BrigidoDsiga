@@ -1,6 +1,6 @@
 Bem-vindo ao Meu Perfil GitHub!
 
-Olá! Meu nome é Brígido Domingos Siga, Sou um entusiasta da programação, apaixonado por construir coisas incríveis.
+Olá! Meu nome é Brígido Domingos Siga, Sou um entusiasta da programação, apaixonado por construir coisas incríveis.   
 Seja bem-vindo ao meu espaço no GitHub, onde compartilho meus projetos, contribuições para a comunidade open source e minhas experiências de aprendizado.
 
 Sobre Mim:
