@@ -1,22 +1,10 @@
 Bem-vindo ao Meu Perfil GitHub!
 
-Olá! Meu nome é Brígido Domingos Siga, Sou um entusiasta da programação, apaixonado por construir coisas incríveis.   
-Seja bem-vindo ao meu espaço no GitHub, onde compartilho meus projetos, contribuições para a comunidade open source e minhas experiências de aprendizado.
+Ola, sou Brígido Domingos Sigá, Estou em transição para desenvolvedor (Back-end: Java, SQL, Spring Framework, API REST e Microservices), estudando ferramentas e linguagens de programação voltado para desenvolvimento e arquitetura de softwares e sistemas Web. Trago uma sólida experiência como analista de suporte, Combinando habilidades técnicas afiadas e uma mentalidade orientada para o cliente.
 
-Sobre Mim:
+Sou um profissional que ama desafios, sempre aperfeiçoando, me atualizando com novas tecnologias do mercado e a minha experiência profissional.
 
-👨‍💻 Atualmente, estou focado em desenvolvimento back-end utilizando JavaScript e Node.js.
-🎓 Sou formado em Análise de Sistemas pela [Universidade Fametro] e cursando gestão da tecnologia de Informção pela [Universidade Ateneu].
-🌱 Estou sempre aprendendo e explorando novas tecnologias e conceitos de programação.
-
-Principais Tecnologias: 
-
-💻 JavaScript
-🚀 Node.js
-🌐 Express.js
-🗄️  MySQL
-🍃 MongoDB
-   SQL Server
+Email: brigidosiga@gmail.com 
 
 <div align="center">
   <a href="https://github.com/BrigidoDsiga">
@@ -24,11 +12,11 @@ Principais Tecnologias:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrigidoDsiga&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
  <div style="display: inline_block"><br>
-  <img align="center" alt="Brigido-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
-  <img align="center" alt="Brigido-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Brigido-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Brigido-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Brigido-Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> 
+  <img align="center" alt="Brigido-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+  <img align="center" alt="Brigido-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
+  <img align="center" alt="Brigido-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+  <img align="center" alt="Brigido-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Brigido-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
 </div>
  
 <div> 
