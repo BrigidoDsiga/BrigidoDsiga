@@ -1,6 +1,6 @@
 Bem-vindo ao Meu Perfil GitHub!
 
-Olá, sou Brígido Domingos Sigá, atualmente atuando como Analista de Sistemas, na CEMA Construções e Tecnologias. Com foco em Java, SQL, Spring Boot, API RESTful, Microserviços, arquitetura de softwares e sistemas Web, buscando sempre implementar soluções eficientes..
+Olá, sou Brígido Domingos Sigá, atualmente atuando como Analista de Sistemas I, na CEMA Construções e Tecnologias. Com foco em Java, SQL, Spring Boot, API RESTful, Microserviços, arquitetura de softwares e sistemas Web, buscando sempre implementar soluções eficientes..
 
 Sou um profissional que ama desafios, sempre aperfeiçoando, me atualizando com novas tecnologias do mercado e a minha experiência profissional.
 
