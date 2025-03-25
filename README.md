@@ -1,8 +1,15 @@
 Bem-vindo ao Meu Perfil GitHub!
+Olá, sou Brígido Domingos Sigá, Profissional de TI com mais de 6 anos de experiência em desenvolvimento, sustentação, suporte e gestão de infraestrutura de sistemas web. Habilidades em liderança de equipe, resolução de conflitos e otimização de processos. Apaixonado por tecnologia, e dedicado a me manter atualizado com as últimas tendências do mercado. Busco constantemente aprimorar minhas habilidades em linguagens de programação como Java, Spring Boot e frameworks relacionados, além de me aprofundar em bancos de dados SQL e arquiteturas de microsserviços.
 
-Olá, sou Brígido Domingos Sigá, um profissional com mais de 6 anos de experiência. Minha trajetória profissional é marcada por uma sólida experiência em tecnologia da informação, abrangendo desde o desenvolvimento e suporte de sistemas até a liderança de equipes e gestão de infraestrutura. Sou dedicado ao desenvolvimento de software e arquitetura de sistemas web.
+Ao longo da minha carreira, liderei com sucesso a implantação e sustentação de sistemas, identificando e corrigindo bugs, aplicando correções e atualizações, além de fornecer suporte técnico aos usuários. Implementei estratégias eficazes de resolução de conflitos, promovendo um ambiente colaborativo e otimizando processos de vendas e logística para garantir a eficiência operacional. Realizei análises de dados para identificar áreas de melhoria e implementar soluções para aumentar a eficiência e reduzir custos, utilizando sistemas ERP: como HCM - Sistema Senior, PDV, Triangulus, Central Manager, SaveWeb, RUB, TPlinux, Sitef, Sankhya, Portal Comercial, Administrativo.
 
-Amo desafios e oportunidades de aprendizado. Mantenho um compromisso de estar sempre atualizado com as novas tecnologias do mercado, investindo meu tempo em estudar novas ferramentas e linguagens de programação, assim como meu crescimento profissional e acadêmico.
+Domínio em: Java, Spring Boot, SQL, Microsserviços, RESTful API, Node.js, MongoDB, POO, UML, JDBC.
+
+Conecte comigo para discutir oportunidades de colaboração em projetos desafiadores e inovadores na área de desenvolvimento.
+
+Contato:
+Email: brigidosiga@gmail.com
+GitHub: github.com/brigidodsiga
 
 <div align="center">
   <a href="https://github.com/BrigidoDsiga">
