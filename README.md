@@ -10,7 +10,6 @@ Conecte comigo para discutir oportunidades de colaboração em projetos desafiad
 
 Contato:
 Email: brigidosiga@gmail.com
-GitHub: github.com/brigidodsiga
 
 <div align="center">
   <a href="https://github.com/BrigidoDsiga">
