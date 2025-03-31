@@ -1,15 +1,39 @@
 Bem-vindo ao Meu Perfil GitHub!
 
-Olá, sou Brígido Domingos Sigá, Profissional de TI com mais de 6 anos de experiência em desenvolvimento, sustentação, suporte e gestão de infraestrutura de sistemas web. Habilidades em liderança de equipe, resolução de conflitos e otimização de processos. Apaixonado por tecnologia, e dedicado a me manter atualizado com as últimas tendências do mercado. Busco constantemente aprimorar minhas habilidades em linguagens de programação como Java, Spring Boot e frameworks relacionados, além de me aprofundar em bancos de dados SQL e arquiteturas de microsserviços.
+🚀 Brígido Domingos Sigá | Especialista em TI & Desenvolvimento de Software
 
-Ao longo da minha carreira, liderei com sucesso a implantação e sustentação de sistemas, identificando e corrigindo bugs, aplicando correções e atualizações, além de fornecer suporte técnico aos usuários. Implementei estratégias eficazes de resolução de conflitos, promovendo um ambiente colaborativo e otimizando processos de vendas e logística para garantir a eficiência operacional. Realizei análises de dados para identificar áreas de melhoria e implementar soluções para aumentar a eficiência e reduzir custos, utilizando sistemas ERP: como HCM - Sistema Senior, PDV, Triangulus, Central Manager, SaveWeb, RUB, TPlinux, Sankhya, Portal Comercial, Administrativo e Financeiro (Sitef).
+👨‍💻 Sobre Mim
+Sou um profissional de TI apaixonado por tecnologia e inovação, com 6+ anos de experiência em desenvolvimento, sustentação, suporte e gestão de infraestrutura de sistemas web. Minha carreira é marcada pela capacidade de liderar equipes, resolver problemas complexos e otimizar processos para impulsionar a eficiência operacional e entregar soluções de alto impacto.
 
-Domínio em: Java, Spring Boot, SQL, Microsserviços, RESTful API, Node.js, MongoDB, POO, UML, JDBC.
+💡 Destaques Profissionais
+✅ Liderança Técnica & Sustentação de Sistemas
+Gerenciamento completo do ciclo de vida de sistemas, desde implantação até manutenção contínua.
+Identificação e correção proativa de bugs, garantindo alta disponibilidade e performance.
+Suporte técnico especializado para usuários e stakeholders.
 
-Conecte comigo para discutir oportunidades de colaboração em projetos desafiadores e inovadores na área de desenvolvimento.
+✅ Otimização de Processos & Gestão de Sistemas
+Implementação de melhorias em sistemas de CRM (Salesforce, RD Station) e ERP (Senior HCM, Sankhya, Triangulus, Sitef).
+Análise de dados para redução de custos e aumento de eficiência em operações comerciais e logísticas.
+Experiência em PDV, sistemas financeiros e integrações de pagamento.
 
-Contato:
-Email: brigidosiga@gmail.com
+✅ Metodologias Ágeis & Boas Práticas
+Aplicação de Kanban (Trello) para gestão visual de tarefas e fluxos de trabalho.
+Cultura de melhoria contínua, documentação e padrões de código limpo.
+
+🛠 Stack Técnica
+⌨️ Backend & Arquitetura
+Java, Spring Boot, Node.js, Microsserviços, API RESTful.
+
+🗃️ Banco de Dados & Armazenamento
+SQL, MongoDB, JDBC.
+
+⚙️ Ferramentas & Metodologias
+Git, Gitflow, POO, UML, Trello e Salesforce.
+
+📩 Vamos Conectar?
+Estou aberto a colaborações, oportunidades inovadoras e discussões sobre tecnologia. Vamos trocar ideias!
+
+📧 Email: brigidosiga@gmail.com
 
 <div align="center">
   <a href="https://github.com/BrigidoDsiga">
