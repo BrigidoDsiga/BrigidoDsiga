@@ -52,6 +52,8 @@ Sou um profissional de TI apaixonado por transformar desafios em soluções inov
 ### Linguagens & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -84,13 +86,25 @@ Sou um profissional de TI apaixonado por transformar desafios em soluções inov
 
 ## 🌟 Projetos Destacados
 
-### [E-commerce API](https://github.com/BrigidoDsiga/ecommerce-api)
-API completa para plataforma de e-commerce com microsserviços
+### 🚀 Projetos Java/Spring Boot
+[![API E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=BrigidoDsiga&repo=ecommerce-api&theme=radical)](https://github.com/BrigidoDsiga/ecommerce-api)
+API completa para plataforma de e-commerce com Spring Boot e JPA
 
-### [Sistema de Gestão](https://github.com/BrigidoDsiga/gestao-sistema)
-Solução integrada para gestão empresarial
+[![Gestão Escolar](https://github-readme-stats.vercel.app/api/pin/?username=BrigidoDsiga&repo=projeto-gestao-escolar&theme=radical)](https://github.com/BrigidoDsiga/projeto-gestao-escolar)
+Sistema de gestão escolar com Java EE e Spring Framework
 
-### [Automações Comerciais](https://github.com/BrigidoDsiga/automacoes)
+[![Sistema de Gestão](https://github-readme-stats.vercel.app/api/pin/?username=BrigidoDsiga&repo=gestao-sistema&theme=radical)](https://github.com/BrigidoDsiga/gestao-sistema)
+Solução integrada para gestão empresarial com Spring MVC
+
+### 💻 Projetos Node.js/JavaScript
+[![Projeto Node](https://github-readme-stats.vercel.app/api/pin/?username=BrigidoDsiga&repo=projeto-node&theme=radical)](https://github.com/BrigidoDsiga/projeto-node)
+API RESTful desenvolvida com Node.js e Express
+
+[![Clone Nubank](https://github-readme-stats.vercel.app/api/pin/?username=BrigidoDsiga&repo=clone-Nubank-cartao&theme=radical)](https://github.com/BrigidoDsiga/clone-Nubank-cartao)
+Interface clone do Nubank com React e Node.js
+
+### ⚡ Automações & Ferramentas
+[![Automações Comerciais](https://github-readme-stats.vercel.app/api/pin/?username=BrigidoDsiga&repo=automacoes&theme=radical)](https://github.com/BrigidoDsiga/automacoes)
 Scripts para otimização de processos comerciais
 
 ---
