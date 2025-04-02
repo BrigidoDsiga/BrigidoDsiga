@@ -1,81 +1,61 @@
-<div align="center">
-  
-# **🚀 Brígido Domingos Sigá**  
-#### **Especialista em TI & Desenvolvimento de Software**  
-*Transformando desafios em soluções de alto impacto*  
+Bem-vindo ao Meu Perfil GitHub!
 
-</div>
+🚀 Brígido Domingos Sigá | Especialista em TI & Desenvolvimento de Software
 
----
+👨‍💻 Sobre Mim
+Sou um profissional de TI apaixonado por tecnologia e inovação, com 6+ anos de experiência em desenvolvimento, sustentação, suporte e gestão de infraestrutura de sistemas web. Minha carreira é marcada pela capacidade de liderar equipes, resolver problemas complexos e otimizar processos para impulsionar a eficiência operacional e entregar soluções de alto impacto.
 
-## **👨‍💻 Sobre Mim**  
-<div align="justify">
-Profissional de TI apaixonado por inovação com **6+ anos de experiência** em desenvolvimento, sustentação e gestão de infraestrutura web. Especialista em liderar equipes, resolver problemas complexos e otimizar processos para máxima eficiência operacional.
-</div>
+💡 Destaques Profissionais
+✅ Liderança Técnica & Sustentação de Sistemas
+Gerenciamento completo do ciclo de vida de sistemas, desde implantação até manutenção contínua.
+Identificação e correção proativa de bugs, garantindo alta disponibilidade e performance.
+Suporte técnico especializado para usuários e stakeholders.
 
----
+✅ Otimização de Processos & Gestão de Sistemas
+Implementação de melhorias em sistemas de CRM (Salesforce, RD Station) e ERP (Senior HCM, Sankhya, Triangulus, Sitef).
+Análise de dados para redução de custos e aumento de eficiência em operações comerciais e logísticas.
+Experiência em PDV, sistemas financeiros e integrações de pagamento.
 
-## **💡 Destaques Profissionais**  
+✅ Metodologias Ágeis & Boas Práticas
+Aplicação de Kanban (Trello) para gestão visual de tarefas e fluxos de trabalho.
+Cultura de melhoria contínua, documentação e padrões de código limpo.
 
-### **✅ Liderança Técnica & Sustentação**  
-<div align="justify">
-  
-- Gerenciamento completo do ciclo de vida de sistemas  
-- Correção proativa de bugs (**99.9% disponibilidade**)  
-- Suporte técnico especializado para stakeholders  
+🛠 Stack Técnica
+⌨️ Backend & Arquitetura
+Java, Spring Boot, Node.js, Microsserviços, API RESTful.
 
-</div>
+🗃️ Banco de Dados & Armazenamento
+SQL, MongoDB, JDBC.
 
-### **✅ Otimização de Processos**  
-<div align="justify">
-  
-- **CRM/ERP:** Salesforce, RD Station, Senior HCM, Sankhya  
-- Redução de custos via análise de dados  
-- Experiência em PDV e integrações de pagamento  
+⚙️ Ferramentas & Metodologias
+Git, Gitflow, POO, UML, Trello e Salesforce.
 
-</div>
-
-### **✅ Metodologias Ágeis**  
-<div align="justify">
-  
-- Gestão visual com **Kanban (Trello)**  
-- Cultura de **código limpo** e documentação  
-- Melhoria contínua (CI/CD)  
-
-</div>
-
----
-
-## **🛠 Stack Técnica**  
-
-| **Categoria**               | **Tecnologias**                          |
-|-----------------------------|------------------------------------------|
-| ⌨️ **Backend & Arquitetura** | Java, Spring Boot, Node.js, Microsserviços |
-| 🗃️ **Banco de Dados**        | SQL, MongoDB, JDBC                      |
-| ⚙️ **Ferramentas**           | Git, Gitflow, UML, Trello, Salesforce   |
-
----
-
-## **📌 Principais Projetos**  
-
-- **ERP Integrado** (Java/Spring) → +30% eficiência  
-- **Automação CRM** (Salesforce) → +40% conversão  
-- **Plataforma Pagamentos** → 10K transações/dia  
-
----
+📩 Vamos Conectar?
+Estou aberto a colaborações, oportunidades inovadoras e discussões sobre tecnologia. Vamos trocar ideias!
 
 <div align="center">
-
-## **📩 Vamos Conectar?**  
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brigidosiga@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brigidodsiga)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-
+  <a href="https://github.com/BrigidoDsiga">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrigidoDsiga&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrigidoDsiga&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  </a>
 </div>
-
-<div align="center" style="margin-top: 20px;">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Brigido-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Brigido-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Brigido-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
+ 
+<div> 
+   <a href = "mailto:brigidosiga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/br%C3%ADgido-siga-b70a1717a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-✨ **"Código eficiente é a arte de simplificar o complexo"**  
-
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
+
