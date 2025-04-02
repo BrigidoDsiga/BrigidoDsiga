@@ -5,30 +5,41 @@ Bem-vindo ao Meu Perfil GitHub!
 👨‍💻 Sobre Mim
 Sou um profissional de TI apaixonado por tecnologia e inovação, com 6+ anos de experiência em desenvolvimento, sustentação, suporte e gestão de infraestrutura de sistemas web. Minha carreira é marcada pela capacidade de liderar equipes, resolver problemas complexos e otimizar processos para impulsionar a eficiência operacional e entregar soluções de alto impacto.
 
-💡 Destaques Profissionais
-✅ Liderança Técnica & Sustentação de Sistemas
-Gerenciamento completo do ciclo de vida de sistemas, desde implantação até manutenção contínua.
-Identificação e correção proativa de bugs, garantindo alta disponibilidade e performance.
-Suporte técnico especializado para usuários e stakeholders.
+</div>
 
-✅ Otimização de Processos & Gestão de Sistemas
-Implementação de melhorias em sistemas de CRM (Salesforce, RD Station) e ERP (Senior HCM, Sankhya, Triangulus, Sitef).
-Análise de dados para redução de custos e aumento de eficiência em operações comerciais e logísticas.
-Experiência em PDV, sistemas financeiros e integrações de pagamento.
+---
 
-✅ Metodologias Ágeis & Boas Práticas
-Aplicação de Kanban (Trello) para gestão visual de tarefas e fluxos de trabalho.
-Cultura de melhoria contínua, documentação e padrões de código limpo.
+## **🌟 Destaques**  
 
-🛠 Stack Técnica
-⌨️ Backend & Arquitetura
-Java, Spring Boot, Node.js, Microsserviços, API RESTful.
+### **🔧 Liderança Técnica**  
+- Gestão completa do ciclo de vida de sistemas  
+- Alta disponibilidade (SLA 99.9%) e otimização de performance  
+- Suporte técnico especializado multinível  
 
-🗃️ Banco de Dados & Armazenamento
-SQL, MongoDB, JDBC.
+### **⚡ Otimização de Sistemas**  
+- **CRM:** Salesforce, RD Station  
+- **ERP:** Senior HCM, Sankhya, Triangulus  
+- Sistemas financeiros e integração de pagamentos  
 
-⚙️ Ferramentas & Metodologias
-Git, Gitflow, POO, UML, Trello e Salesforce.
+### **🔄 Metodologias Ágeis**  
+- Kanban (Trello) para gestão visual  
+- Cultura de código limpo e documentação  
+- CI/CD e melhoria contínua  
+
+---
+
+## **🛠️ Stack Técnica**  
+
+<div align="center">
+
+| **Backend**       | **Banco de Dados** | **Ferramentas**      |
+|-------------------|--------------------|----------------------|
+| Java              | SQL                | Git/Gitflow          |
+| Spring Boot       | MongoDB            | UML                  |
+| Node.js           | JDBC               | Trello               |
+| Microsserviços    |                    | Salesforce           |
+
+</div>
 
 📩 Vamos Conectar?
 Estou aberto a colaborações, oportunidades inovadoras e discussões sobre tecnologia. Vamos trocar ideias!
