@@ -32,12 +32,13 @@ Sou um profissional de TI apaixonado por tecnologia e inovação, com 6+ anos de
 
 <div align="center">
 
-| **Backend**       | **Banco de Dados** | **Ferramentas**      |
-|-------------------|--------------------|----------------------|
-| Java              | SQL                | Git/Gitflow          |
-| Spring Boot       | MongoDB            | UML                  |
-| Node.js           | JDBC               | Trello               |
-| Microsserviços    |                    | Salesforce           |
+| **Backend**        | **Banco de Dados**       | **Ferramentas**        |
+|--------------------|--------------------------|------------------------|
+| Java               | SQL • PostgreSQL         | Git • Gitflow          |
+| Spring Boot        | MongoDB (NoSQL)          | UML                    |
+| JPA/Hibernate      | JDBC                     | Trello • Salesforce    |
+| Node.js            |                          | AWS (EC2, S3, RDS)     |
+| Microsserviços     |                          |                        |
 
 </div>
 
