@@ -12,19 +12,19 @@ Sou um profissional de TI apaixonado por tecnologia e inovação, com 6+ anos de
 ## **🌟 Destaques**  
 
 ### **🔧 Liderança Técnica**  
-- Gestão completa do ciclo de vida de sistemas  
-- Alta disponibilidade (SLA 99.9%) e otimização de performance  
-- Suporte técnico especializado multinível  
+- Gestão completa do ciclo de vida de sistemas.  
+- Alta disponibilidade (SLA 99.9%) e otimização de performance.  
+- Suporte técnico especializado multinível.  
 
 ### **⚡ Otimização de Sistemas**  
-- **CRM:** Salesforce, RD Station  
-- **ERP:** Senior HCM, Sankhya, Triangulus  
-- Sistemas financeiros e integração de pagamentos  
+- **CRM:** Salesforce, RD Station.  
+- **ERP:** Senior HCM, Sankhya, Triangulus.  
+- Sistemas financeiros e integração de pagamentos.  
 
 ### **🔄 Metodologias Ágeis**  
-- Kanban (Trello) para gestão visual  
-- Cultura de código limpo e documentação  
-- CI/CD e melhoria contínua  
+- Kanban (Trello) para gestão visual.  
+- Cultura de código limpo e documentação.  
+- CI/CD e melhoria contínua.  
 
 ---
 
