@@ -1,131 +1,70 @@
+Brígido Domingos Sigá
+🚀 Full Stack Developer | Java | Spring Boot | Node.js | Cloud Solutions
 <div align="center">
-  
-  ![Header](https://github.com/BrigidoDsiga/BrigidoDsiga/blob/main/assets/github-header.png?raw=true)
-  
-</div>
-
-## 👋 Olá, eu sou Brígido Domingos Sigá
-### 💻 Especialista em TI & Desenvolvimento de Software | 6+ anos de experiência
-
-<div align="center">
-  
-  [![Visits](https://komarev.com/ghpvc/?username=BrigidoDsiga&color=blueviolet&label=Profile+Views)](https://github.com/BrigidoDsiga)
-  [![Followers](https://img.shields.io/github/followers/BrigidoDsiga?style=social)](https://github.com/BrigidoDsiga)
-  
-</div>
-
----
-
-## 🚀 Sobre Mim
-
-Sou um profissional de TI apaixonado por transformar desafios em soluções inovadoras. Com experiência multidisciplinar em desenvolvimento, sustentação e gestão de sistemas, meu foco é criar soluções robustas que impulsionam a eficiência operacional e entregam valor real.
-
-<div align="center">
-  
-  ![Metrics](https://metrics.lecoq.io/BrigidoDsiga?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo)
+LinkedIn
+Gmail
+GitHub
+Discord
 
 </div>
+👨‍💻 Sobre Mim
+Sou um Desenvolvedor Full Stack com mais de 6 anos de experiência, especializado em Java, Spring Boot, Node.js e arquitetura de microsserviços. Minha paixão é criar soluções escaláveis e de alta performance, combinando boas práticas de desenvolvimento com tecnologias modernas.
 
----
+🔹 Back-End: Java, Spring (Boot, MVC, Security, Data JPA), Node.js, Express
+🔹 Front-End: React, Angular, JavaScript, TypeScript
+🔹 Banco de Dados: MySQL, PostgreSQL, MongoDB
+🔹 Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD (GitHub Actions)
+🔹 Metodologias: Scrum, Clean Code, SOLID, DDD
 
-## 💼 Experiência Profissional
+🛠️ Tecnologias & Ferramentas
+Linguagens & Frameworks
+Java
+Spring
+Spring Boot
+Node.js
+JavaScript
+React
 
-### 🔧 Liderança Técnica & Sustentação de Sistemas
-- Gerenciamento completo do ciclo de vida de sistemas
-- Otimização de performance e alta disponibilidade
-- Resolução proativa de problemas complexos
+Banco de Dados
+MySQL
+PostgreSQL
+MongoDB
 
-### ⚙️ Arquitetura & Desenvolvimento
-- Design e implementação de APIs RESTful
-- Desenvolvimento de microsserviços escaláveis
-- Integração entre sistemas corporativos
+AWS
+Docker
 
-### 📈 Gestão & Otimização
-- Implementação de melhorias em CRM/ERP
-- Análise de dados para redução de custos
-- Automação de processos operacionais
+🚀 Projetos Destacados
+1️⃣ Sistema de Gestão Escolar
+📌 Tecnologias: Java, Spring Boot, JPA, MySQL
+📌 Descrição: Plataforma completa para gerenciamento de alunos, professores e turmas, com autenticação JWT e relatórios em PDF.
 
----
+2️⃣ API E-commerce
+📌 Tecnologias: Node.js, Express, MongoDB
+📌 Descrição: API RESTful para loja virtual, com carrinho de compras, pagamentos via Stripe e integração com correios.
 
-## 🛠 Stack Técnica
+3️⃣ Clone Nubank (Front-End)
+📌 Tecnologias: React, TypeScript, Styled Components
+📌 Descrição: Interface moderna inspirada no Nubank, com animações e responsividade.
 
-### Linguagens & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+4️⃣ Automações Comerciais
+📌 Tecnologias: Python, Selenium, Pandas
+📌 Descrição: Scripts para automação de processos comerciais, como extração de dados e envio de e-mails.
 
-### Bancos de Dados
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+5️⃣ Sistema de CRM
+📌 Tecnologias: Java, Spring MVC, Thymeleaf, PostgreSQL
+📌 Descrição: Sistema de Customer Relationship Management (CRM) para empresas.
 
-### Ferramentas & Plataformas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
----
-
-## 📊 Estatísticas GitHub
-
+📊 GitHub Analytics
 <div align="center">
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrigidoDsiga&show_icons=true&count_private=true&theme=radical&hide_border=true)](https://github.com/BrigidoDsiga)
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrigidoDsiga&layout=compact&theme=radical&hide_border=true)](https://github.com/BrigidoDsiga)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=BrigidoDsiga&theme=radical&hide_border=true)
-  
 </div>
+📫 Vamos Conversar?
+💡 Interessado em colaborar em projetos inovadores?
+🚀 Procurando um desenvolvedor Java/Node.js experiente?
 
----
-
-## 🌟 Projetos Destacados
-
-### 🚀 Projetos Java/Spring Boot
-[![API E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=BrigidoDsiga&repo=ecommerce-api&theme=radical)](https://github.com/BrigidoDsiga/ecommerce-api)
-API completa para plataforma de e-commerce com Spring Boot e JPA
-
-[![Gestão Escolar](https://github-readme-stats.vercel.app/api/pin/?username=BrigidoDsiga&repo=projeto-gestao-escolar&theme=radical)](https://github.com/BrigidoDsiga/projeto-gestao-escolar)
-Sistema de gestão escolar com Java EE e Spring Framework
-
-[![Sistema de Gestão](https://github-readme-stats.vercel.app/api/pin/?username=BrigidoDsiga&repo=gestao-sistema&theme=radical)](https://github.com/BrigidoDsiga/gestao-sistema)
-Solução integrada para gestão empresarial com Spring MVC
-
-### 💻 Projetos Node.js/JavaScript
-[![Projeto Node](https://github-readme-stats.vercel.app/api/pin/?username=BrigidoDsiga&repo=projeto-node&theme=radical)](https://github.com/BrigidoDsiga/projeto-node)
-API RESTful desenvolvida com Node.js e Express
-
-[![Clone Nubank](https://github-readme-stats.vercel.app/api/pin/?username=BrigidoDsiga&repo=clone-Nubank-cartao&theme=radical)](https://github.com/BrigidoDsiga/clone-Nubank-cartao)
-Interface clone do Nubank com React e Node.js
-
-### ⚡ Automações & Ferramentas
-[![Automações Comerciais](https://github-readme-stats.vercel.app/api/pin/?username=BrigidoDsiga&repo=automacoes&theme=radical)](https://github.com/BrigidoDsiga/automacoes)
-Scripts para otimização de processos comerciais
-
----
-
-## 📫 Vamos Conversar?
-
-Estou sempre aberto a novas conexões, colaborações e oportunidades desafiadoras!
-
+📩 Entre em contato:
+🔗 LinkedIn
+✉️ brigidosiga@gmail.com
+🎮 Discord
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/br%C3%ADgido-siga-b70a1717a)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brigidosiga@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrigidoDsiga)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/BrigidoDsiga/BrigidoDsiga/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
+</div> ```
