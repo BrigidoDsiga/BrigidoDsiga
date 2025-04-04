@@ -2,43 +2,7 @@ Bem-vindo ao Meu Perfil GitHub!
 
 🚀 Brígido Domingos Sigá | Especialista em TI & Desenvolvimento de Software.
 
-👨‍💻 Sobre Mim
-Sou um profissional de TI apaixonado por tecnologia e inovação, com 6+ anos de experiência em desenvolvimento, sustentação, suporte e gestão de infraestrutura de sistemas web. Minha carreira é marcada pela capacidade de liderar equipes, resolver problemas complexos e otimizar processos para impulsionar a eficiência operacional e entregar soluções de alto impacto.
-
-</div>
-
----
-
-## **🌟 Destaques**  
-
-### **🔧 Liderança Técnica**  
-- Gestão completa do ciclo de vida de sistemas.  
-- Alta disponibilidade (SLA 99.9%) e otimização de performance.  
-- Suporte técnico especializado multinível.  
-
-### **⚡ Otimização de Sistemas**  
-- **CRM:** Salesforce, RD Station.  
-- **ERP:** Senior HCM, Sankhya, Triangulus.  
-- Sistemas financeiros e integração de pagamentos.  
-
-### **🔄 Metodologias Ágeis**  
-- Kanban (Trello) para gestão visual.  
-- Cultura de código limpo e documentação.  
-- CI/CD e melhoria contínua.  
-
----
-
-## **🛠️ Stack Técnica**  
-
-<div align="center">
-
-| **Backend**        | **Banco de Dados**       | **Ferramentas**        |
-|--------------------|--------------------------|------------------------|
-| Java               | SQL • PostgreSQL         | Git • Gitflow          |
-| Spring Boot        | MongoDB (NoSQL)          | UML                    |
-| JPA/Hibernate      | JDBC                     | Trello • Salesforce    |
-| Node.js            |                          | AWS (EC2, S3, RDS)     |
-| Microsserviços     |                          |                        |
+Um desenvolvedor de software apaixonado, habilidoso em criar soluções inovadoras e eficientes para problemas complexos. Com uma base sólida em tecnologias modernas e um compromisso com o aprendizado contínuo, eu prospero na construção de sistemas impactantes que geram resultados significativos. Vamos nos conectar e colaborar para transformar ideias em soluções excepcionais.
 
 </div>
 
