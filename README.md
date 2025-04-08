@@ -1,37 +1,97 @@
-Bem-vindo ao Meu Perfil GitHub!
-
-🚀 Brígido Domingos Sigá | Desenvolvedor de software.
-
-Um desenvolvedor de software apaixonado, habilidoso em criar soluções inovadoras e eficientes para problemas complexos. Com uma base sólida em tecnologias modernas e um compromisso com o aprendizado contínuo, eu prospero na construção de sistemas impactantes que geram resultados significativos. Vamos nos conectar e colaborar para transformar ideias em soluções excepcionais.
-
-</div>
-
-📩 Vamos Conectar?
-Estou aberto a colaborações, oportunidades inovadoras e discussões sobre tecnologia. Vamos trocar ideias!
+# 🌟 Bem-vindo ao Meu Universo Tech! 🌟
 
 <div align="center">
-  <a href="https://github.com/BrigidoDsiga">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrigidoDsiga&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrigidoDsiga&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-  </a>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Brigido-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-    <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Brigido-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Brigido-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-</div>
- 
-<div> 
-   <a href = "mailto:brigidosiga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/br%C3%ADgido-siga-b70a1717a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22DDFF&center=true&vCenter=true&width=600&lines=Brígido+Domingos+Sigá;Desenvolvedor+Full-Stack;Arquiteto+de+Soluções;Inovador+Tecnológico" alt="Título animado" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BrigidoDsiga&label=Profile+Views&color=0e75b6&style=flat" alt="Visualizações do perfil" /> 
+  <img src="https://img.shields.io/github/commit-activity/m/BrigidoDsiga?color=blueviolet&label=Monthly+Commits" alt="Atividade de commits" />
+  <img src="https://img.shields.io/github/followers/BrigidoDsiga?label=Followers&style=social" alt="Seguidores" />
+</div>
+
+---
+
+✨ **Sobre Mim**  
+*"Transformando café em código desde [insira ano].*  
+Desenvolvedor de software apaixonado por criar soluções que unem eficiência e elegância. Especialista em transformar problemas complexos em sistemas intuitivos, com mais de **1500+ commits** contribuindo para o ecossistema tech.
+
+🚀 **Minha Missão**  
+Construir tecnologia que não apenas funciona, mas inspira. Comprometido com excelência técnica e impacto mensurável.
+
+---
+
+## 📊 Meu Dashboard Tech
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=BrigidoDsiga&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=45%2C1A1A2E%2C16213E&fire=FF7F50&ring=22DDFF&currStreakLabel=22DDFF" alt="Sequência de commits" width="49%"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=BrigidoDsiga&show_icons=true&theme=radical&count_private=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=1A1A2E&title_color=22DDFF&icon_color=FF7F50" alt="Estatísticas" width="49%"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrigidoDsiga&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=16213E&title_color=22DDFF" alt="Linguagens mais usadas" width="49%"/>
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrigidoDsiga&theme=react-dark&bg_color=1A1A2E&hide_border=true&point=FF7F50&line=22DDFF&area=true&area_color=16213E" alt="Gráfico de atividade" width="49%"/>
+  </a>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Linguagens & Frameworks
+<div style="display: inline_block">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div>
+
+### 🗃️ Bancos de Dados
+<div style="display: inline_block">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
+
+### 🎨 Frontend
+<div style="display: inline_block">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
+
+### ⚙️ Ferramentas
+<div style="display: inline_block">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</div>
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/br%C3%ADgido-siga-b70a1717a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:brigidosiga@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discord.com/users/seu_id" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BrigidoDsiga/BrigidoDsiga/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
