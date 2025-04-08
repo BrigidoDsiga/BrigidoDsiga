@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22DDFF&center=true&vCenter=true&width=600&lines=Brígido+Domingos+Sigá;Desenvolvedor+Full-Stack;Arquiteto+de+Soluções;Inovador+Tecnológico" alt="Título animado" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BrigidoDsiga&label=Profile+Views&color=0e75b6&style=flat" alt="Visualizações do perfil" /> 
-  <img src="https://img.shields.io/github/commit-activity/m/BrigidoDsiga?color=blueviolet&label=Monthly+Commits" alt="Atividade de commits" />
-  <img src="https://img.shields.io/github/followers/BrigidoDsiga?label=Followers&style=social" alt="Seguidores" />
-</div>
-
 ---
 
 ✨ **Sobre Mim**  
