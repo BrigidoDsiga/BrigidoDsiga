@@ -1,6 +1,6 @@
 Bem-vindo ao Meu Perfil GitHub!
 
-🚀 Brígido Domingos Sigá | Especialista em TI & Desenvolvimento de Software.
+🚀 Brígido Domingos Sigá | Desenvolvedor de software.
 
 Um desenvolvedor de software apaixonado, habilidoso em criar soluções inovadoras e eficientes para problemas complexos. Com uma base sólida em tecnologias modernas e um compromisso com o aprendizado contínuo, eu prospero na construção de sistemas impactantes que geram resultados significativos. Vamos nos conectar e colaborar para transformar ideias em soluções excepcionais.
 
