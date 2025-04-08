@@ -78,6 +78,7 @@ Construir tecnologia que não apenas funciona, mas inspira. Comprometido com exc
   <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 </div>
 
+
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
@@ -87,15 +88,7 @@ Construir tecnologia que não apenas funciona, mas inspira. Comprometido com exc
   <a href="mailto:brigidosiga@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://discord.com/users/seu_id" target="_blank">
+  <a href="https://discord.com/invite/PQsEJk43Cg" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrigidoDsiga/BrigidoDsiga/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
