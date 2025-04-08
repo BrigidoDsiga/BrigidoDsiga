@@ -28,14 +28,20 @@ Construir tecnologia que não apenas funciona, mas inspira. Comprometido com exc
     <img src="https://streak-stats.demolab.com?user=BrigidoDsiga&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=45%2C1A1A2E%2C16213E&fire=FF7F50&ring=22DDFF&currStreakLabel=22DDFF" alt="Sequência de commits" width="49%"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=BrigidoDsiga&show_icons=true&theme=radical&count_private=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=1A1A2E&title_color=22DDFF&icon_color=FF7F50" alt="Estatísticas" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=BrigidoDsiga&show_icons=true&theme=radical&count_private=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=1A1A2E&title_color=22DDFF&icon_color=FF7F50&custom_title=Minhas%20Estatísticas" alt="Estatísticas" width="49%"/>
   </a>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrigidoDsiga&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=16213E&title_color=22DDFF" alt="Linguagens mais usadas" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrigidoDsiga&layout=donut&theme=radical&hide_border=true&bg_color=16213E&title_color=22DDFF&langs_count=6&custom_title=Linguagens%20Mais%20Usadas&hide=Jupyter%20Notebook,HTML,CSS&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Linguagens mais usadas" width="49%"/>
   </a>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrigidoDsiga&theme=react-dark&bg_color=1A1A2E&hide_border=true&point=FF7F50&line=22DDFF&area=true&area_color=16213E" alt="Gráfico de atividade" width="49%"/>
+  
+  <a href="https://github.com/BrigidoDsiga">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrigidoDsiga&theme=react-dark&bg_color=1A1A2E&hide_border=true&point=FF7F50&line=22DDFF&area=true&area_color=16213E&custom_title=Minha%20Atividade%20de%20Commits&title_color=22DDFF" alt="Gráfico de atividade" width="49%"/>
   </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://progress-bar.dev/60/?scale=100&title=Java&width=300&color=22DDFF" alt="Java 60%"/>
 </div>
 
 ---
