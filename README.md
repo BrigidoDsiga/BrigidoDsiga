@@ -7,7 +7,7 @@
 ---
 
 ✨ **Sobre Mim**  
-*"Transformando café em código desde 2018.*  
+*Transformando café em código desde 2018.*  
 Desenvolvedor de software apaixonado por criar soluções que unem eficiência e elegância. Especialista em transformar problemas complexos em sistemas intuitivos, com mais de **1500+ commits** contribuindo para o ecossistema tech.
 
 🚀 **Minha Missão**  
