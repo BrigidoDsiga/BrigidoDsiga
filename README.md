@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22DDFF&center=true&vCenter=true&width=600&lines=Brígido+Domingos+Sigá;Desenvolvedor+Full-Stack;Arquiteto+de+Soluções;Inovador+Tecnológico" alt="Título animado" />
 </div>
 
----
-
 ✨ **Sobre Mim**  
 *Transformando café em código desde 2018.*  
 Desenvolvedor de software apaixonado por criar soluções que unem eficiência e elegância. Especialista em transformar problemas complexos em sistemas intuitivos, com mais de **1500+ commits** contribuindo para o ecossistema tech.
@@ -25,7 +23,7 @@ Construir tecnologia que não apenas funciona, mas inspira. Comprometido com exc
   <img alt="REST API" src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=rest&logoColor=white"/>
 </div>
 
-### 🗃️ Banco de Dados & Armazenamento
+### 🗃️ Banco de Dados
 <div style="display: inline_block; margin-bottom: 20px;">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
