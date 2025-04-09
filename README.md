@@ -71,9 +71,16 @@ Construir tecnologia que não apenas funciona, mas inspira. Comprometido com exc
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 </div>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 
-## 🌐 Conecte-se Comigo
+## 🌐 Conecte se Comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/br%C3%ADgido-siga-b70a1717a" target="_blank">
