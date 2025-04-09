@@ -15,9 +15,84 @@ Construir tecnologia que não apenas funciona, mas inspira. Comprometido com exc
 
 ---
 
-## 📊 Meu Dashboard Tech
+<div align="center">
+  <h2 style="color: #22DDFF; font-family: 'Segoe UI', sans-serif; margin-bottom: 20px; text-shadow: 0 0 10px rgba(34, 221, 255, 0.5);">🚀 Meu Dashboard GitHub</h2>
+  
+  <!-- Snack Animado -->
+  <div style="margin-bottom: 30px; position: relative; height: 60px;">
+    <div class="snack" style="position: absolute; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center;">
+      <span style="color: #FF7F50; font-size: 24px; animation: pulse 2s infinite;">✨</span>
+      <span style="color: #22DDFF; font-size: 24px; animation: pulse 2s infinite 0.5s;">👨‍💻</span>
+      <span style="color: #FF7F50; font-size: 24px; animation: pulse 2s infinite 1s;">🚀</span>
+      <span style="color: #22DDFF; font-size: 24px; animation: pulse 2s infinite 1.5s;">💻</span>
+    </div>
+  </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> <!-- GitHub Streak Stats (Neon Fire Theme) --> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=BrigidoDsiga&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=45%2C1A1A2E%2C16213E&fire=FF7F50&ring=22DDFF&currStreakLabel=22DDFF" alt="GitHub Streak" width="48%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(34, 221, 255, 0.3);"/> </a> <!-- GitHub Stats (Radical Theme) --> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=BrigidoDsiga&show_icons=true&theme=radical&count_private=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=1A1A2E&title_color=22DDFF&icon_color=FF7F50" alt="GitHub Stats" width="48%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(255, 127, 80, 0.3);"/> </a> <!-- Top Languages (Compact Layout) --> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrigidoDsiga&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=16213E&title_color=22DDFF" alt="Top Languages" width="48%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(34, 221, 255, 0.3);"/> </a> <!-- Activity Graph (React Dark Theme) --> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrigidoDsiga&theme=react-dark&bg_color=1A1A2E&hide_border=true&point=FF7F50&line=22DDFF&area=true&area_color=16213E" alt="Activity Graph" width="48%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(255, 127, 80, 0.3);"/> </a></div>
+  <!-- Container dos Cards -->
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; max-width: 1200px; margin: 0 auto;">
+    <!-- GitHub Streak Stats -->
+    <div style="width: 48%; min-width: 300px; perspective: 1000px;">
+      <div class="card" style="background: linear-gradient(145deg, #1A1A2E, #16213E); border-radius: 15px; padding: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.3); transition: transform 0.5s; border: 1px solid rgba(34, 221, 255, 0.2);">
+        <a href="https://git.io/streak-stats" style="text-decoration: none;">
+          <img src="https://streak-stats.demolab.com?user=BrigidoDsiga&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=45%2C1A1A2E%2C16213E&fire=FF7F50&ring=22DDFF&currStreakLabel=22DDFF" alt="GitHub Streak" style="width: 100%; border-radius: 8px; transition: transform 0.3s;"/>
+          <h3 style="color: #22DDFF; text-align: center; margin-top: 10px;">Sequência de Atividades</h3>
+        </a>
+      </div>
+    </div>
+
+    <!-- GitHub Stats -->
+    <div style="width: 48%; min-width: 300px; perspective: 1000px;">
+      <div class="card" style="background: linear-gradient(145deg, #1A1A2E, #16213E); border-radius: 15px; padding: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.3); transition: transform 0.5s; border: 1px solid rgba(255, 127, 80, 0.2);">
+        <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none;">
+          <img src="https://github-readme-stats.vercel.app/api?username=BrigidoDsiga&show_icons=true&theme=radical&count_private=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=1A1A2E&title_color=22DDFF&icon_color=FF7F50" alt="GitHub Stats" style="width: 100%; border-radius: 8px; transition: transform 0.3s;"/>
+          <h3 style="color: #FF7F50; text-align: center; margin-top: 10px;">Estatísticas GitHub</h3>
+        </a>
+      </div>
+    </div>
+
+    <!-- Top Languages -->
+    <div style="width: 48%; min-width: 300px; perspective: 1000px;">
+      <div class="card" style="background: linear-gradient(145deg, #16213E, #1A1A2E); border-radius: 15px; padding: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.3); transition: transform 0.5s; border: 1px solid rgba(34, 221, 255, 0.2);">
+        <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none;">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrigidoDsiga&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=16213E&title_color=22DDFF" alt="Top Languages" style="width: 100%; border-radius: 8px; transition: transform 0.3s;"/>
+          <h3 style="color: #22DDFF; text-align: center; margin-top: 10px;">Linguagens Mais Usadas</h3>
+        </a>
+      </div>
+    </div>
+
+    <!-- Activity Graph -->
+    <div style="width: 48%; min-width: 300px; perspective: 1000px;">
+      <div class="card" style="background: linear-gradient(145deg, #16213E, #1A1A2E); border-radius: 15px; padding: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.3); transition: transform 0.5s; border: 1px solid rgba(255, 127, 80, 0.2);">
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph" style="text-decoration: none;">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrigidoDsiga&theme=react-dark&bg_color=1A1A2E&hide_border=true&point=FF7F50&line=22DDFF&area=true&area_color=16213E" alt="Activity Graph" style="width: 100%; border-radius: 8px; transition: transform 0.3s;"/>
+          <h3 style="color: #FF7F50; text-align: center; margin-top: 10px;">Gráfico de Atividades</h3>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Estilos CSS -->
+<style>
+  @keyframes pulse {
+    0% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.3); opacity: 0.7; }
+    100% { transform: scale(1); opacity: 1; }
+  }
+  
+  .card:hover {
+    transform: rotateY(10deg) scale(1.02);
+    box-shadow: 0 15px 30px rgba(0,0,0,0.4);
+  }
+  
+  .card img:hover {
+    transform: scale(1.01);
+  }
+  
+  a:hover h3 {
+    text-shadow: 0 0 8px currentColor;
+  }
+</style>
 
 ---
 
