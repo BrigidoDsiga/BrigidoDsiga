@@ -17,20 +17,7 @@ Construir tecnologia que não apenas funciona, mas inspira. Comprometido com exc
 
 ## 📊 Meu Dashboard Tech
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=BrigidoDsiga&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=45%2C1A1A2E%2C16213E&fire=FF7F50&ring=22DDFF&currStreakLabel=22DDFF" alt="Sequência de commits" width="49%"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=BrigidoDsiga&show_icons=true&theme=radical&count_private=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=1A1A2E&title_color=22DDFF&icon_color=FF7F50" alt="Estatísticas" width="49%"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrigidoDsiga&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=16213E&title_color=22DDFF" alt="Linguagens mais usadas" width="49%"/>
-  </a>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrigidoDsiga&theme=react-dark&bg_color=1A1A2E&hide_border=true&point=FF7F50&line=22DDFF&area=true&area_color=16213E" alt="Gráfico de atividade" width="49%"/>
-  </a>
-</div>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> <!-- GitHub Streak Stats (Neon Fire Theme) --> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=BrigidoDsiga&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=45%2C1A1A2E%2C16213E&fire=FF7F50&ring=22DDFF&currStreakLabel=22DDFF" alt="GitHub Streak" width="48%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(34, 221, 255, 0.3);"/> </a> <!-- GitHub Stats (Radical Theme) --> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=BrigidoDsiga&show_icons=true&theme=radical&count_private=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=1A1A2E&title_color=22DDFF&icon_color=FF7F50" alt="GitHub Stats" width="48%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(255, 127, 80, 0.3);"/> </a> <!-- Top Languages (Compact Layout) --> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrigidoDsiga&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=16213E&title_color=22DDFF" alt="Top Languages" width="48%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(34, 221, 255, 0.3);"/> </a> <!-- Activity Graph (React Dark Theme) --> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrigidoDsiga&theme=react-dark&bg_color=1A1A2E&hide_border=true&point=FF7F50&line=22DDFF&area=true&area_color=16213E" alt="Activity Graph" width="48%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(255, 127, 80, 0.3);"/> </a></div>
 
 ---
 
@@ -71,13 +58,6 @@ Construir tecnologia que não apenas funciona, mas inspira. Comprometido com exc
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 </div>
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 ## 🌐 Conecte se Comigo
