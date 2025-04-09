@@ -14,45 +14,40 @@ Desenvolvedor de software apaixonado por criar soluções que unem eficiência e
 Construir tecnologia que não apenas funciona, mas inspira. Comprometido com excelência técnica e impacto mensurável.
 
 ---
-<h2 align="center"> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ6ZzF0eGJ5d3h1b2J2Z3B4dWl4b2R6eGZ6ZzF0eGJ5d3h1b2J2/giphy.gif" width="30px"> 
-  Dashboard GitHub 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ6ZzF0eGJ5d3h1b2J2Z3B4dWl4b2R6eGZ6ZzF0eGJ5d3h1b2J2/giphy.gif" width="30px">
+  Dashboard GitHub
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ6ZzF0eGJ5d3h1b2J2Z3B4dWl4b2R6eGZ6ZzF0eGJ5d3h1b2J2/giphy.gif" width="30px">
 </h2>
 
 <p align="center">
-  ✨ <em>Snack animado:</em> 
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="20"> 
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="20" style="animation-delay: 0.5s"> 
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="20" style="animation-delay: 1s"> 
+  ✨ <em>Snack animado:</em>
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="20">
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="20" style="animation-delay: 0.5s">
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="20" style="animation-delay: 1s">
   <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="20" style="animation-delay: 1.5s"> ✨
 </p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-<!-- GitHub Streak Stats -->
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=BrigidoDsiga&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=45%2C1A1A2E%2C16213E&fire=FF7F50&ring=22DDFF&currStreakLabel=22DDFF&border_radius=10" alt="GitHub Streak" width="49%" style="box-shadow: 0 4px 15px rgba(34, 221, 255, 0.4); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
 </a>
 
-<!-- GitHub Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=BrigidoDsiga&show_icons=true&theme=radical&count_private=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=1A1A2E&title_color=22DDFF&icon_color=FF7F50&border_radius=10" alt="GitHub Stats" width="49%" style="box-shadow: 0 4px 15px rgba(255, 127, 80, 0.4); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
 </a>
 
-<!-- Top Languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrigidoDsiga&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=16213E&title_color=22DDFF&border_radius=10" alt="Top Languages" width="49%" style="box-shadow: 0 4px 15px rgba(34, 221, 255, 0.4); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
 </a>
 
-<!-- Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrigidoDsiga&theme=react-dark&bg_color=1A1A2E&hide_border=true&point=FF7F50&line=22DDFF&area=true&area_color=16213E&border_radius=10" alt="Activity Graph" width="49%" style="box-shadow: 0 4px 15px rgba(255, 127, 80, 0.4); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
 </a>
 
 </div>
 
-<!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <p align="center">
