@@ -33,7 +33,7 @@ Construir tecnologia que não apenas funciona, mas inspira. Comprometido com exc
 
 ### 🎨 Interface
 <div style="display: inline_block; margin-bottom: 20px;">
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-61DAFB?style=for-the-badge&logo=angular&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
