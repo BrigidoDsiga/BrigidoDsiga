@@ -1,7 +1,8 @@
 # 🌟 Bem-vindo ao Meu Universo Tech! 🌟
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22DDFF&center=true&vCenter=true&width=600&lines=Brígido+Domingos+Sigá;Desenvolvedor+Full-Stack;Arquiteto+de+Soluções;Inovador+Tecnológico" alt="Título animado"/>
+  <h1>Brígido Domingos Sigá</h1>
+  <p>Desenvolvedor Full-Stack | Arquiteto de Soluções | Inovador Tecnológico</p>
 </div>
 
 ✨ **Sobre Mim**  
